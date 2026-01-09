@@ -4,7 +4,7 @@ This repository contains my complete submission for the PlatinumRx Data Analyst 
 
 🚀 1. Objective
 
-This assignment showcases practical skills in:
+This Project showcases practical skills in:
 
 SQL – Schema creation, data modeling, and analytical queries for Hotel and Clinic management systems.
 
