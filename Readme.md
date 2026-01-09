@@ -1,4 +1,4 @@
-📘 PlatinumRx – Data Analyst Assignment
+📘 PlatinumRx – Data Analyst Project
 
 This repository contains my complete submission for the PlatinumRx Data Analyst Assessment, covering SQL, Spreadsheets, and Python tasks. The goal of this project is to demonstrate end-to-end analytical, data manipulation, and problem-solving skills across multiple tools.
 
